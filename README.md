@@ -1,2 +1,1 @@
-# multi-factor-authentication
-Multi Factor Authentication
+# Multi Factor Authentication

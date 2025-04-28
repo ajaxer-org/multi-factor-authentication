@@ -1,1 +1,1 @@
-# Multi Factor Authentication
+# TOTP (Time-based One Time Password)
